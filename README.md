@@ -4,7 +4,7 @@
 
 ## Results
 
-The link to the [NYC_Bike_Sharing_Dashboard](https://public.tableau.com/views/NYC_Bike_Sharing_Challenge_16455611531760/Bike-SharingAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+Click the [link]((https://public.tableau.com/views/NYC_Bike_Sharing_Challenge_16455611531760/Bike-SharingAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)) to see the analysis of NYC Bike Sharing.
 
 The visualizations of analysis are as follows:
 ![](screenshots/Peak_Hours_August.png)
