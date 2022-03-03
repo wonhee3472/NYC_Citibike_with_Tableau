@@ -1,4 +1,4 @@
-# bikesharing
+# NYC Bike Sharing Project
 
 ## Purpose of Analysis
 The goal of this project is to present to the investors a data visualization report of bike-sharing service in NYC so that I can help them strategize their plans of starting the same/similar service in Des Moines, Iowa.  
